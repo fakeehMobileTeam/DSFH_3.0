@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "config": {
+    "map_api_key": "6062BEAE4A2126984860CE2D265296F3416087FA7E512FA6B5B2D4FA56733638",
+    "base_url": "https://yarmobileapp.fakeeh.care/V15.0",
+    "feature_flags": {
+      "show_new_ui": true
+    }
+  }
+}
